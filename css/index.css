@@ -1,0 +1,28 @@
+h1{
+    color: red;
+}
+
+.parrafo1 {
+    color: blue;
+    font-size: 100px;
+    font-family: arial;
+    font-weight: 100;
+}
+.parrafo2{
+    color: green;
+}
+
+.caja{
+    width:300px;
+    height: 350px;
+    border: 1px solid black;
+}
+
+.corazon{
+    width: 80%;
+    display: block;
+    margin: auto;
+}
+.parrafo{
+    font-family: sans-serif;
+}
